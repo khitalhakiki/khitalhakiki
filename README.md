@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khitalhakiki
-- 👀 I’m interested in Softwaere engineer and cloud
+- 👀 I’m interested in Cloud and Software engineer
 
 <!---
 khitalhakiki/khitalhakiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
