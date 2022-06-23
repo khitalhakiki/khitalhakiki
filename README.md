@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khitalhakiki
 - 👀 I’m interested in Cloud and Software engineer
-- 🌱 I’m currently learning about FrontEnd Is React.Js And Back End is Java, Golang, PHP
+- 🌱 I’m currently learning about FrontEnd Is React.Js And Back End is Java, PHP
 - 🌱 I’m currently learning about Cloud Enginer
 - 👯 I’m looking to collaborate with any team or project while increasing my knowledge
 - ⚡ Fun fact: I love to play Gaming and sport🎮⚽
