@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khitalhakikizaf
+- 👋 Hi, I’m @khitalhakiki-af
 - 👀 I’m interested in Cloud and Software developer
-- 🌱 I’m currently learning about FrontEnd Is Native, Bootstrap, React.Js And Back End is Java, PHP
+- 🌱 I’m currently learning about FrontEnd Is Native, Bootstrap,  Javascriot And BackEnd is Java, C++, Phyton(General)
 - 🌱 I’m currently learning about Cloud & network
 - 👯 I’m looking to collaborate with any team or project while increasing my knowledge
 - ⚡ Fun fact: I love to play Gaming and sport🎮⚽
